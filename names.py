@@ -1,3 +1,5 @@
 name=input("enter your name")
 surmane=input("enetr your surname")
+contact=input("enter your contact details")
 print("your details:",name+" "+surname)
+print("your contact is:",contact)
